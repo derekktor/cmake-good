@@ -1,0 +1,3 @@
+/Users/mac/Desktop/cmake-good/running-cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/cmake-good/running-cmake/build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/cmake-good/running-cmake/build/CMakeFiles/cmake-good.dir
