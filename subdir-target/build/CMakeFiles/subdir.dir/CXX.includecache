@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/Desktop/cmake-good/subdir-target/main.cpp
+iostream
+-
+hello.hpp
+/Users/mac/Desktop/cmake-good/subdir-target/hello.hpp
+
