@@ -1,0 +1,4 @@
+/Users/mac/Desktop/cmake-good/adding-lib/build/CMakeFiles/addLibrary.dir
+/Users/mac/Desktop/cmake-good/adding-lib/build/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/cmake-good/adding-lib/build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/cmake-good/adding-lib/build/CMakeFiles/say-hello.dir
